@@ -1,31 +1,25 @@
 # Stable Online Control of Linear Time-Varying Systems
 
 This repository contains source code necessary to reproduce the results presented in the following paper: 
-Stable Online Control of Linear Time-Varying Systems (http://proceedings.mlr.press/v144/qu21a/qu21a.pdf).
+Stable Online Control of Linear Time-Varying Systems (http://proceedings.mlr.press/v144/qu21a/qu21a.pdf). 
+
+In this work, we propose COvariance Constrained Online Linear Quadratic (COCO-LQ) control, that guarantees
+input-to-state stability for a large class of LTV systems while also minimizing the control cost. The
+proposed method incorporates a state covariance constraint into the semi-definite programming
+(SDP) formulation of the LQ optimal controller. We empirically demonstrate the performance of
+COCO-LQ in both synthetic experiments and a power system frequency control example.
 
 Authors: Guannan Qu, Yuanyuan Shi, Sahin Lale, Steven Low, Anima Anandkumar and Adam Wierman
 
 Accepted and Presented at the 3rd Annual Conference on Learning for Dynamics and Control (L4DC).
 
-### Paper Highlight
-
-Linear time-varying (LTV) systems are widely used for modeling real-world dynamical systems
-due to their generality and simplicity. Providing stability guarantees for LTV systems is one of the
-central problems in control theory. However, existing approaches that guarantee stability typically
-lead to significantly sub-optimal cumulative control cost in online settings where only current or
-short-term system information is available. In this work, we propose an efficient online control
-algorithm, COvariance Constrained Online Linear Quadratic (COCO-LQ) control, that guarantees
-input-to-state stability for a large class of LTV systems while also minimizing the control cost. The
-proposed method incorporates a state covariance constraint into the semi-definite programming
-(SDP) formulation of the LQ optimal controller. We empirically demonstrate the performance of
-COCO-LQ in both synthetic experiments and a power system frequency control example.
 
 ### Algorithm
 
 ![alt text](https://github.com/Yuanyuan-Shi/online_control_ltv/blob/main/figs/WX20220721-112402.png)
 
 
-### Experiment
+### Experiments
 
 #### Synthetic Time-Varying Systems
 
