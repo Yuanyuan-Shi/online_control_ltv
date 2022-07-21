@@ -23,6 +23,10 @@ Accepted and Presented at the 3rd Annual Conference on Learning for Dynamics and
 
 #### Synthetic Time-Varying Systems
 
+1) Switching Linear Systems
+
+2) Time-variant Systems
+
 
 #### Frequency Control with Renewable Generation
 
