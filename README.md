@@ -22,6 +22,9 @@ COCO-LQ in both synthetic experiments and a power system frequency control examp
 
 ### Algorithm
 
+![alt text](https://github.com/Yuanyuan-Shi/online_control_ltv/blob/main/figs/WX20220721-112402.png)
+
+
 ### Experiment
 
 #### Synthetic Time-Varying Systems
@@ -61,3 +64,6 @@ We test on the  IEEE WECC 3-machine 9-bus system, where the system is changing b
 scenario where $m_{t,i} = 2$ (i.e., 80 percent renewable with zero inertia and 20 percent of thermal generation with 10s inertia), 
 and a low renewable generation scenario where $m_{t,i} = 8$ (i.e., 20 percent renewable and 80 percent thermal generation), with 
 additional random fluctuations between $[0, 0.2]$.
+
+![alt text](https://github.com/Yuanyuan-Shi/online_control_ltv/blob/main/figs/WX20220721-112345.png)
+
