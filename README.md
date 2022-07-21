@@ -28,7 +28,7 @@ Accepted and Presented at the 3rd Annual Conference on Learning for Dynamics and
 2) Time-variant Systems
 
 
-#### Frequency Control with Renewable Generation
+#### [Frequency Control with Renewable Generation](https://github.com/Yuanyuan-Shi/online_control_ltv/blob/main/L4DC_freq_contrl_ltv.m)
 
 We consider a power system frequency control problem with time-varying renewable generation and thus, system inertia. The state space model 
 of power system frequency dynamics follow, <img src="https://render.githubusercontent.com/render/math?">
