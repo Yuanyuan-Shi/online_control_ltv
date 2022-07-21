@@ -1,3 +1,9 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+bibliography: bibliography.bib
+---
 # Stable Online Control of Linear Time-Varying Systems
 
 This repository contains source code necessary to reproduce the results presented in the following paper: 
@@ -60,3 +66,4 @@ additional random fluctuations between $[0, 0.2]$.
 
 ![alt text](https://github.com/Yuanyuan-Shi/online_control_ltv/blob/main/figs/WX20220721-112345.png)
 
+[@qu2021stable]
