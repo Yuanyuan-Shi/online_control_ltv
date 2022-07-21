@@ -1,9 +1,3 @@
----
-output:
-  md_document:
-    variant: markdown_github
-bibliography: bibliography.bib
----
 # Stable Online Control of Linear Time-Varying Systems
 
 This repository contains source code necessary to reproduce the results presented in the following paper: 
@@ -66,4 +60,16 @@ additional random fluctuations between $[0, 0.2]$.
 
 ![alt text](https://github.com/Yuanyuan-Shi/online_control_ltv/blob/main/figs/WX20220721-112345.png)
 
-[@qu2021stable]
+(Xie, Allaire, and Grolemund 2018)
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-xie2018" class="csl-entry">
+
+Xie, Yihui, J. J. Allaire, and Garrett Grolemund. 2018. *R Markdown: The
+Definitive Guide*. Boca Raton, Florida: Chapman; Hall/CRC.
+<https://bookdown.org/yihui/rmarkdown>.
+
+</div>
+
+</div>
