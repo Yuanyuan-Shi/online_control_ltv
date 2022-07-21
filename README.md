@@ -62,12 +62,12 @@ additional random fluctuations between $[0, 0.2]$.
 
 
 ### Citation
-@inproceedings{qu2021stable,
-  title={Stable online control of linear time-varying systems},
-  author={Qu, Guannan and Shi, Yuanyuan and Lale, Sahin and Anandkumar, Anima and Wierman, Adam},
-  booktitle={Learning for Dynamics and Control},
-  pages={742--753},
-  year={2021},
-  organization={PMLR}
+@inproceedings{qu2021stable,\\
+  title={Stable online control of linear time-varying systems},\\
+  author={Qu, Guannan and Shi, Yuanyuan and Lale, Sahin and Anandkumar, Anima and Wierman, Adam},\\
+  booktitle={Learning for Dynamics and Control},\\
+  pages={742--753},\\
+  year={2021},\\
+  organization={PMLR}\\
 }
 
