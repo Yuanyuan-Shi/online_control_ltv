@@ -14,11 +14,6 @@ Authors: Guannan Qu, Yuanyuan Shi, Sahin Lale, Steven Low, Anima Anandkumar and 
 Accepted and Presented at the 3rd Annual Conference on Learning for Dynamics and Control (L4DC).
 
 
-### Algorithm
-
-![alt text](https://github.com/Yuanyuan-Shi/online_control_ltv/blob/main/figs/WX20220721-112402.png)
-
-
 ### Experiments
 
 #### [Synthetic Time-Varying Systems](https://github.com/Yuanyuan-Shi/online_control_ltv/blob/main/L4DC_synthetic_ltv.ipynb)
@@ -65,3 +60,6 @@ additional random fluctuations between $[0, 0.2]$.
 
 ![alt text](https://github.com/Yuanyuan-Shi/online_control_ltv/blob/main/figs/WX20220721-112345.png)
 
+### Algorithm
+
+![alt text](https://github.com/Yuanyuan-Shi/online_control_ltv/blob/main/figs/WX20220721-112402.png)
