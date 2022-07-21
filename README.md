@@ -60,16 +60,15 @@ additional random fluctuations between $[0, 0.2]$.
 
 ![alt text](https://github.com/Yuanyuan-Shi/online_control_ltv/blob/main/figs/WX20220721-112345.png)
 
-(Xie, Allaire, and Grolemund 2018)
+### Citation
 
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-xie2018" class="csl-entry">
-
-Xie, Yihui, J. J. Allaire, and Garrett Grolemund. 2018. *R Markdown: The
-Definitive Guide*. Boca Raton, Florida: Chapman; Hall/CRC.
-<https://bookdown.org/yihui/rmarkdown>.
-
-</div>
-
-</div>
+```
+@inproceedings{qu2021stable,
+  title={Stable online control of linear time-varying systems},
+  author={Qu, Guannan and Shi, Yuanyuan and Lale, Sahin and Anandkumar, Anima and Wierman, Adam},
+  booktitle={Learning for Dynamics and Control},
+  pages={742--753},
+  year={2021},
+  organization={PMLR}
+}
+```
